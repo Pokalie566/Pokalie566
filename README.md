@@ -8,11 +8,12 @@
  
  <h5 align="center">
    <i>⚡️blublublublublublublublublublublublublublublublublublublublublublublublu⚡️</i>
+    <img  height="150px" width="750px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE4OTZ6NWlxNnJjZ254cnpta2phNGV6ZzY2MHN3aTc3aGhyZ29nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctaJhFmrx1ILibSH7c/giphy.gif"/>
   </h5>
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5dTdoaTFyMWR6cjkybW1uMjY0MXUzcjN5YzlwejBjMjY3Nms5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVRBD8TGihl9YgswG9/giphy.gif" />
+<img align="right" height="450px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A0bHNyYWI1eGdqaHZtODBqczduMjNtd21xZXVkcGRiMmNmOHpqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AooPIXbwxI40/giphy.gif" />
 <p align="center">
   <h3> I'm 17 years old Beginner developer from France.</h3>
 </p>
