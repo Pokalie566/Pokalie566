@@ -10,7 +10,7 @@
 </div>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️blublublublublublublublublublublublublublublublublublublublublublublublu⚡️</i>
   </h5>
  
  
