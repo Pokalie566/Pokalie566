@@ -57,7 +57,7 @@
  
  - Test some code
  
- - Eat🍴 ...
+ - Eat ...
  
  <p align="center">
 
