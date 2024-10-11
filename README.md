@@ -6,16 +6,8 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aubin Deboosere | 💻 Beginner Developer | 🛸 France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-
-
-<p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
  
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
