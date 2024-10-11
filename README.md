@@ -19,7 +19,7 @@
    
  - 🔭 Space FanBoy, Go to Mars 🚀
  
- - I do C and a bit of pythin :heart:
+ - I do C and a bit of python :heart:
  
  - All About living life at its best.
  
