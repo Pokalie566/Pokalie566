@@ -12,7 +12,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBpaXl3NG5nbW1mcTFtN2psYnFiYnFpOHhmYnB3dTY1YzdndDFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AooPIXbwxI40/giphy.gif" />
 <p align="center">
   <h3> I'm 17 years old Beginner developer from France.</h3>
 </p>
@@ -50,20 +50,16 @@
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-
-
  ### - What i do
+</p>
+   
+ - Study at 42 Angouleme
+ 
+ - Test some code
+ 
+ - Eat...
+ 
+ <p align="center">
 
 
 <br />
@@ -81,7 +77,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in France</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
