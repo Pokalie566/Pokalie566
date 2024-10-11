@@ -8,7 +8,6 @@
  
  <h5 align="center">
    <i>⚡️blublublublublublublublublublublublublublublublublublublublublublublublu⚡️</i>
-    <img  height="150px" width="750px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE4OTZ6NWlxNnJjZ254cnpta2phNGV6ZzY2MHN3aTc3aGhyZ29nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctaJhFmrx1ILibSH7c/giphy.gif"/>
   </h5>
  
  
