@@ -17,7 +17,7 @@
   <h3> I'm 17 years old Beginner developer from France.</h3>
 </p>
    
- - 🔭 Space FanBoy, Go to Mars 🚀
+ - 🔭 Space Fan, Go to Mars 🚀
  
  - I do C and a bit of python :heart:
  
