@@ -41,13 +41,9 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,c,vim" />
+  </a>
 </p>
 
  ### - What i do
