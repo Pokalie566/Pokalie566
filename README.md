@@ -55,7 +55,7 @@
  
  - Eat ...
  
- <p align="right" >
+ <p align="center" >
     <a href="https://git.io/streak-stats">
        <img src="https://streak-stats.demolab.com?user=Pokalie566&theme=transparent&border_radius=2.5&mode=weekly&card_width=497" alt="GitHub Streak" />
     </a>
