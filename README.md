@@ -12,9 +12,9 @@
  
  
 <br />
-<img align="right" height="450px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A0bHNyYWI1eGdqaHZtODBqczduMjNtd21xZXVkcGRiMmNmOHpqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AooPIXbwxI40/giphy.gif" />
+<img align="right" height="450px" width="450px" src="[![adeboose's 42 stats](https://badge.mediaplus.ma/darkblue/adeboose)](https://github.com/oakoudad/badge42)"/>
 <p align="center">
-  <h3> I'm 17 years old Beginner developer from France.</h3>
+  <h3> I'm 18 years old Beginner developer from France.</h3>
 </p>
    
  - 🔭 Space Fan, Go to Mars 🚀
