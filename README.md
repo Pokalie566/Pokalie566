@@ -13,7 +13,7 @@
 <!-- Badge 42 juste en dessous du texte -->
 <div align="center">
     <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/darkblue/adeboose" />
+        <img src="https://badge.mediaplus.ma/darkblue/adeboose?1337Badge=off&UM6P=off" alt="adeboose's 42 stats" />
     </a>
 </div>
 
