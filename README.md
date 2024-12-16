@@ -34,9 +34,7 @@
 
 <!-- Statistiques GitHub et autres éléments -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=Pokalie566&&show_icons=true&theme=github_dark"/>
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=Pokalie566&&show_icons=true&theme=github_dark"/>
 </p>
 
 <br />
@@ -59,9 +57,7 @@
  - Eat ...
  
  <p align="center">
-    <a href="https://git.io/streak-stats">
-       <img src="https://streak-stats.demolab.com?user=Pokalie566&theme=transparent&border_radius=2.5&mode=weekly&card_width=497" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=Pokalie566&theme=transparent&border_radius=2.5&mode=weekly&card_width=497" alt="GitHub Streak" />
  </p>
 
 <br />
