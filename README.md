@@ -22,7 +22,7 @@
 <!-- Partie sur toi sur la gauche -->
 <div style="display: flex; justify-content: flex-start; width: 100%; padding-left: 10%; padding-right: 10%;">
     <div style="flex: 1;">
-        <h3>I'm 18 years old Beginner developer from France.</h3>
+        <h3>I'm 19 years old Beginner developer from France.</h3>
         <ul>
             <li>🔭 Space Fan, Go to Mars 🚀</li>
             <li>I do C and a bit of python :heart:</li>
