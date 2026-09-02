@@ -1,0 +1,57 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"     # tous les jours à 04:00 UTC
+  workflow_dispatch:         # bouton "Run workflow" manuel
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      # ---------- Carte principale ----------
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Pokalie566
+          template: classic
+          base: header, repositories
+          config_timezone: Europe/Paris
+          config_animations: no
+
+          # Langages, pondérés par ce que tu écris vraiment
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_ignored: html, css, makefile, dockerfile
+
+          # Calendrier de contributions en isométrique
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Lignes ajoutées / supprimées
+          plugin_lines: yes
+
+      # ---------- Carte activité ----------
+      - name: Habits metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Pokalie566
+          base: ""
+          config_timezone: Europe/Paris
+          config_animations: no
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
