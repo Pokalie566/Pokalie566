@@ -1,83 +1,73 @@
-<div align="center">
-   <h1>Hi there, I'm Aubin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+<h1 align="center">Aubin Deboosere</h1>
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aubin Deboosere | 💻 Beginner Developer | 🛸 France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-
-<h5 align="center">
-   <i>⚡️blublublublublublublublublublublublublublublublublublublublublublublublu⚡️</i>
-</h5>
-
-<!-- Badge 42 juste en dessous du texte -->
-<div align="center">
-    <a href="https://profile.intra.42.fr/users/adeboose">
-        <img src="https://badge.mediaplus.ma/darkblue/adeboose?1337Badge=off&UM6P=off" alt="adeboose's 42 stats" />
-    </a>
-</div>
-
-<br />
-
-<!-- Partie sur toi sur la gauche -->
-<div style="display: flex; justify-content: flex-start; width: 100%; padding-left: 10%; padding-right: 10%;">
-    <div style="flex: 1;">
-        <h3>I'm 19 years old Beginner developer from France.</h3>
-        <ul>
-            <li>🔭 Space Fan, Go to Mars 🚀</li>
-            <li>I do C and a bit of python :heart:</li>
-            <li>All About living life at its best.</li>
-        </ul>
-        <h4>C | Competitive Programming</h4>
-    </div>
-</div>
-
-<!-- Statistiques GitHub et autres éléments -->
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Pokalie566&&show_icons=true&theme=github_dark"/>
+  <b>DevOps &amp; Infrastructure</b> · 42 School graduate · France
 </p>
 
-<br />
-
-### - Languages and Tools...
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,c,vim" />
+  <a href="https://profile.intra.42.fr/users/adeboose">
+    <img src="https://img.shields.io/badge/42-adeboose-black?style=flat-square&logo=42" alt="42 intra" />
+  </a>
+  <a href="https://www.linkedin.com/in/aubin-deboosere-663918432">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:deboosereaubin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
- ### - What I do
-</p>
-   
- - Study at 42 Angouleme
- 
- - Test some code
- 
- - Eat ...
- 
- <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Pokalie566&theme=transparent&border_radius=2.5&mode=weekly&card_width=497" alt="GitHub Streak" />
- </p>
+---
 
-<br />
+### About
+
+I build and operate containerized infrastructure. I completed the 42 School Common Core (Oct 2024 – Jul 2026), where I worked mostly on multi-service Docker stacks, Kubernetes, and CI/CD.
+
+- Currently looking for a **6-month DevOps internship** in France — available from `MOIS ANNÉE`, mobile nationwide.
+- Comfortable with C, Python, and Bash; most of my time goes into infra, automation, and observability.
+- Learning in depth rather than broadly: I'd rather understand why a cluster behaves the way it does than collect certifications.
+
+---
+
+### Tech
+
+| | |
+|---|---|
+| **Containers & orchestration** | Docker, Docker Compose, Kubernetes (k3s, k3d), Helm, Argo CD |
+| **CI/CD & IaC** | GitHub Actions, GitLab CI, Vagrant, Makefile-driven workflows |
+| **Observability & data** | Elasticsearch, Logstash, Kibana, Prometheus, Grafana |
+| **Networking & security** | Nginx, Traefik, Ingress, OWASP ModSecurity CRS, HashiCorp Vault |
+| **Languages** | C, Python, Bash, SQL |
+| **Systems** | Linux (Debian/Alpine), macOS, Git |
+
+---
+
+### Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **ft_transcendence** | Team of 5 · graded **125%**. Real-time web platform delivered as the 42 student-union site. I owned the infrastructure: Compose base + dev/staging/prod overrides, a Postgres→Elasticsearch sync pipeline with French analyzers and fuzzy search, WAF rules, and hardened file uploads (magic-byte validation, path-traversal protection). | Next.js, PostgreSQL, ELK, Nginx + ModSecurity, Vault, SeaweedFS, Docker |
+| **Inception-of-Things** | Pair project · graded **125%** including bonus. A k3s cluster provisioned with Vagrant, host-based Ingress routing for three apps, then a k3d + Argo CD GitOps pipeline with a self-hosted GitLab as the source of truth. | Vagrant, k3s, k3d, Argo CD, GitLab, Ingress |
+
+---
+
+### Stats
 
 <p align="center">
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd0Y2Vqb2lleW5uamJrNHl1ZG5iMWsxajVzYTRlaTZsMDh0djU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" />
+  <a href="https://profile.intra.42.fr/users/adeboose">
+    <img src="https://badge.mediaplus.ma/darkblue/adeboose?1337Badge=off&UM6P=off" alt="adeboose's 42 stats" />
+  </a>
 </p>
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-
-<p align="center">Made with ❤️ in France</p>
-
-<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img src="./metrics.habits.svg" alt="Coding habits" />
+</p>
+
+---
+
+<p align="center">
+  Open to DevOps / SRE / platform engineering internships — feel free to reach out.
 </p>
