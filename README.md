@@ -54,16 +54,11 @@ I build and operate containerized infrastructure. I completed the 42 School Comm
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/adeboose">
-    <img src="https://badge.mediaplus.ma/darkblue/adeboose?1337Badge=off&UM6P=off" alt="adeboose's 42 stats" />
+    <img src="https://badge.mediaplus.ma/darkblue/adeboose?1337Badge=off&UM6P=off" alt="42 intra — adeboose" />
   </a>
 </p>
-
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Coding habits" />
+  <img src="./metrics.svg" alt="GitHub metrics" width="480" />
 </p>
 
 ---
